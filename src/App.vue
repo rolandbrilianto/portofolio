@@ -1,9 +1,9 @@
 <template>
-  <header class="bg-blue-500 min-h-16">
-    <div class="my-auto h-full">Roland Brilianto</div>
-  </header>
+  <main-page></main-page>
 </template>
 
-<script setup></script>
+<script setup>
+import MainPage from "./MainPage.vue";
+</script>
 
 <style></style>
