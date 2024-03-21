@@ -1,10 +1,11 @@
 <template>
   <header-nav></header-nav>
-
-  <about-me></about-me>
-  <education></education>
-  <experiences></experiences>
-  <projects></projects>
+  <div class="mt-28">
+    <about-me></about-me>
+    <education></education>
+    <experiences></experiences>
+    <projects></projects>
+  </div>
 </template>
 
 <script setup>
